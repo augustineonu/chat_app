@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508545881795",
+    "project_id": "chat-app-53a33",
+    "storage_bucket": "chat-app-53a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508545881795:android:b2d1ecdb32cd26f29fb476",
+        "android_client_info": {
+          "package_name": "com.AugustineOnu.chat_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508545881795-9nhkdsv1849dunora082ec0qr0su5g6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99fwei-1kgdWwmw9ieRJ9KB-ufMWyH-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508545881795-9nhkdsv1849dunora082ec0qr0su5g6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
